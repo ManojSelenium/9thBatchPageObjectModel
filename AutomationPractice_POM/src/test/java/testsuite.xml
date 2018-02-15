@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.sprint1.testcases.R001_CreateAccount_Test"/>
+      <class name="com.sprint1.testcases.R002_EditAccount_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
